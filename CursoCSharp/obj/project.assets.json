@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gesta\\.nuget\\packages\\": {}
+    "C:\\Users\\raelmar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gesta\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\gesta\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\gesta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gesta\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\raelmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gesta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\raelmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

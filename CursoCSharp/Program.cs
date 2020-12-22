@@ -11,7 +11,7 @@ namespace CursoCSharp {
          static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 
-                //Fundamentos
+                // Curso CSharp - Fundamentos 
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
@@ -28,7 +28,7 @@ namespace CursoCSharp {
                 {"Operadores Unários - Fundamentos",OperadoresUnarios.Executar},
                 {"Operador Ternário - Fundamentos",OperadorTernario.Executar},
                 
-                //Estrutura de Controle
+                // Curso CSharp - Estrutura de Controle
                 {"Estrutura If - Estrutura de Controle",EstruturaIf.Executar},
                 {"Estrutura If Else - Estrutura de Controle",EstruturaIfElse.Executar},
                 {"Estrutura If Else If - Estrutura de Controle",EstruturaIfElseIf.Executar},
@@ -40,7 +40,7 @@ namespace CursoCSharp {
                 {"Usando Break - Estrutura de Controle",UsandoBreak.Executar},
                 {"Usando Continue - Estrutura de Controle",UsandoContinue.Executar},
 
-                //Classes & Objetos
+                // Curso CSharp - Classes & Objetos
                 {"Membros - Classes e Metodos ",Membros.Executar},
                 {"Construtores - Classes e Metodos ",Construtores.Executar},
                 {"Metodos com Retorno - Classes e Metodos ",MetodoComRetorno.Executar},
@@ -59,7 +59,7 @@ namespace CursoCSharp {
                 {"Parametros por Referência - Classes e Metodos ", ParametrosPorReferencia.Executar},
                 {"Parametro Padrão - Classes e Metodos ", ParametroPadrao.Executar},
 
-                //Coleções
+                // Curso CSharp - Coleções
                 {"Array - Coleções ", Colecoes.Array.Executar},
                 {"List - Coleções ", ColecoesList.Executar},
 
