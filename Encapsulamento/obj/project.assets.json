@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Encapsulamento/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Encapsulamento/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulamento/Encapsulamento.csproj",
-      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Encapsulamento >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\raelmar\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "projectName": "CursoCSharp",
-      "projectPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\raelmar\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\CursoCSharp\\obj\\",
+      "outputPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raelmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Projetos\\Treinamentos\\Cursos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

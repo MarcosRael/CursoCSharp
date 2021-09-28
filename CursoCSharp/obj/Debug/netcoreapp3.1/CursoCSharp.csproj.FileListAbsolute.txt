@@ -24,3 +24,6 @@ C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\
 C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
 C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
 C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Projetos\Treinamentos\Cursos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
