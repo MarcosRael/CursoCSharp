@@ -6,6 +6,10 @@ using CursoCSharp.ClassesEObjetos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
+using CursoCSharp.Testes;
 
 namespace CursoCSharp {
     class Program {
@@ -73,6 +77,35 @@ namespace CursoCSharp {
                 {"Herança - OO ", Heranca.Executar},
                 {"Construtor This - OO ", ConstrutorThis.Executar},
                 {"Encapsulamento - OO ", OO.Encapsulamento.Executar},
+                {"Polimorfismo - OO ", OO.Polimorfismo.Executar},
+                {"Abstract - OO ", OO.Abstract.Executar},
+                {"Interface - OO ", OO.Interface.Executar},
+                {"Sealead - OO ", OO.Sealed.Executar},
+                
+                //Métodos & Funções
+                {"Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
+                {"Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar},
+                {"Usando Delegate - Métodos & Funções", UsandoDelegate.Executar},
+                {"Delegate Func Anonima - Métodos & Funções", DelegateFuncAnonima.Executar},
+                {"Delegates Como Parametros - Métodos & Funções", DelegatesComoParametros.Executar},
+                {"Métodos de Extensao - Métodos & Funções", MetodosDeExtensao.Executar},
+
+                //Exceções
+                {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
+
+                //Api
+                {"Primeiro Arquivo - Api", PrimeiroArquivo.Executar},
+                {"Lendo Arquivos - Api", LendoArquivos.Executar},
+                {"Exemplo File Info - Api", ExemploFileInfo.Executar},
+                {"Diretorios - Api", Diretorios.Executar},
+                {"Exemplos Directory Info - Api", ExemploDirectoryInfo.Executar},
+
+                //Testes
+                {"Code Test  - Testes", CodeTest.Executar},
+
+
+
 
             });
 
