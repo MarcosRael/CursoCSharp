@@ -10,6 +10,7 @@ using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.Api;
 using CursoCSharp.Testes;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -100,6 +101,13 @@ namespace CursoCSharp {
                 {"Exemplo File Info - Api", ExemploFileInfo.Executar},
                 {"Diretorios - Api", Diretorios.Executar},
                 {"Exemplos Directory Info - Api", ExemploDirectoryInfo.Executar},
+                {"Exemplo Path - Api", ExemploPath.Executar},
+                {"Exemplo DateTime - Api", ExemploDateTime.Executar},
+                {"Exemplo TimeSpan - Api", ExemploTimeSpan.Executar},
+
+
+                //Topicos Avançados
+                {"LINQ 1 - Topicos Avançados", LINQ1.Executar},
 
                 //Testes
                 {"Code Test  - Testes", CodeTest.Executar},
