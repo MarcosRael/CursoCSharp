@@ -4,16 +4,16 @@ using System.Linq;
 
 namespace CursoCSharp.TopicosAvancados
 {
+
+    public class Aluno
+    {
+        public string Nome;
+        public int Idade;
+        public double Nota;
+    }
+
     class LINQ1
     {
-
-        public class Aluno
-        {
-            public string Nome;
-            public int Idade;
-            public double Nota;
-        }
-
         public static void Executar()
         {
             var alunos = new List<Aluno>
